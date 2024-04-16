@@ -1,0 +1,7 @@
+C:\Users\coderpsycho\Desktop\windowsManager\windowsManager\bin\Debug\windowsManager.exe.config
+C:\Users\coderpsycho\Desktop\windowsManager\windowsManager\bin\Debug\windowsManager.exe
+C:\Users\coderpsycho\Desktop\windowsManager\windowsManager\bin\Debug\windowsManager.pdb
+C:\Users\coderpsycho\Desktop\windowsManager\windowsManager\obj\Debug\windowsManager.csproj.AssemblyReference.cache
+C:\Users\coderpsycho\Desktop\windowsManager\windowsManager\obj\Debug\windowsManager.csproj.CoreCompileInputs.cache
+C:\Users\coderpsycho\Desktop\windowsManager\windowsManager\obj\Debug\windowsManager.exe
+C:\Users\coderpsycho\Desktop\windowsManager\windowsManager\obj\Debug\windowsManager.pdb
